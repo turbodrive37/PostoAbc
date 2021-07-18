@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/17 23:06:09.000.281,=C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/03 18:30:47.000.461,=C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/10 22:54:13.000.457,=C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/16 23:48:25.000.487,=C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 00:03:39.000.891,C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Programas\XE10\Teste_Empresas\Fortes\UfrmConsulta.dfm</Transaction>
+    <Transaction>2021/07/17 00:03:39.000.891,C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Programas\XE10\Teste_Empresas\Fortes\UfrmConsulta.pas</Transaction>
+    <Transaction>2021/07/17 00:03:48.000.452,C:\Users\Hacson Alexandre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Programas\XE10\Teste_Empresas\Fortes\PostoABC.dproj</Transaction>
+    <Transaction>2021/07/17 00:10:55.000.152,=C:\Programas\XE10\Teste_Empresas\Fortes\Main.pas</Transaction>
+    <Transaction>2021/07/17 08:33:06.000.835,=D:\Programas XE10\1W-Sistemas\Teste_Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 08:33:46.000.273,=D:\Programas XE10\1W-Sistemas\Teste_Fortes\UDados.pas</Transaction>
+    <Transaction>2021/07/17 09:32:08.000.201,=D:\Programas XE10\1W-Sistemas\Teste_Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 09:40:28.000.197,D:\Programas XE10\1W-Sistemas\Teste_Fortes\UAbastece.pas=D:\Programas XE10\1W-Sistemas\Teste_Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 11:19:43.000.029,=D:\Programas XE10\1W-Sistemas\Teste_Fortes\UntMaskedit.pas</Transaction>
+    <Transaction>2021/07/18 14:08:57.000.694,=C:\Programas\XE10\Teste_Empresas\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 14:12:15.000.292,C:\Programas\XE10\Teste_Empresas\Fortes\Unit1.pas=C:\Programas\XE10\Teste_Empresas\Fortes\URelatorios.pas</Transaction>
+    <Transaction>2021/07/18 14:12:15.000.292,C:\Programas\XE10\Teste_Empresas\Fortes\Unit1.dfm=C:\Programas\XE10\Teste_Empresas\Fortes\URelatorios.dfm</Transaction>
+    <Transaction>2021/07/18 14:38:24.000.865,=C:\Programas\XE10\Teste_Empresas\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 14:41:38.000.987,C:\Programas\XE10\Teste_Empresas\Fortes\Unit1.dfm=C:\Programas\XE10\Teste_Empresas\Fortes\UPaginas.dfm</Transaction>
+    <Transaction>2021/07/18 14:41:38.000.987,C:\Programas\XE10\Teste_Empresas\Fortes\Unit1.pas=C:\Programas\XE10\Teste_Empresas\Fortes\UPaginas.pas</Transaction>
+  </Transactions>
+</BorlandProject>
